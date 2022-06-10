@@ -30,8 +30,8 @@ Step 8: Save and run the application.
 ```
 /*
 Program to create and design an android application to draw shapes using 3D graphics with openGL ES.
-Developed by        : Marinto Richee J
-Registration Number : 212220230031
+Developed by        : Gowri M
+Registration Number : 212220230019
 */
 ```
 ### MyGLActiviy.java
@@ -322,6 +322,10 @@ public class Pyramid {
 </manifest>
 ```
 ## OUTPUT:
+
+![Screenshot (127)](https://user-images.githubusercontent.com/75235455/172985955-8d397310-4844-45f5-8a36-af4cbfe081cf.png)
+![Screenshot (126)](https://user-images.githubusercontent.com/75235455/172985967-84a54154-8bb9-4f20-8b69-595ebde656e9.png)
+![Screenshot (128)](https://user-images.githubusercontent.com/75235455/172985978-2002bcec-f5c3-4c6c-a0de-378793b6d9c1.png)
 
 
 ## RESULT:
